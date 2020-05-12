@@ -1,0 +1,12 @@
+D:\99.etc\C#\PPAP\PPAP_StateMachine\Server\PPAP_SEVER\PPAP_SEVER\obj\Debug\PPAP_SEVER.csprojAssemblyReference.cache
+D:\99.etc\C#\PPAP\PPAP_StateMachine\Server\PPAP_SEVER\PPAP_SEVER\obj\Debug\PPAP_SEVER.Properties.Resources.resources
+D:\99.etc\C#\PPAP\PPAP_StateMachine\Server\PPAP_SEVER\PPAP_SEVER\obj\Debug\PPAP_SEVER.csproj.GenerateResource.cache
+D:\99.etc\C#\PPAP\PPAP_StateMachine\Server\PPAP_SEVER\PPAP_SEVER\obj\Debug\PPAP_SEVER.csproj.CoreCompileInputs.cache
+D:\99.etc\C#\PPAP\PPAP_StateMachine\Server\PPAP_SEVER\PPAP_SEVER\bin\Debug\PPAP_SEVER.exe.config
+D:\99.etc\C#\PPAP\PPAP_StateMachine\Server\PPAP_SEVER\PPAP_SEVER\bin\Debug\PPAP_SEVER.exe
+D:\99.etc\C#\PPAP\PPAP_StateMachine\Server\PPAP_SEVER\PPAP_SEVER\bin\Debug\PPAP_SEVER.pdb
+D:\99.etc\C#\PPAP\PPAP_StateMachine\Server\PPAP_SEVER\PPAP_SEVER\bin\Debug\MySql.Data.dll
+D:\99.etc\C#\PPAP\PPAP_StateMachine\Server\PPAP_SEVER\PPAP_SEVER\obj\Debug\PPAP_SEVER.FrmMain.resources
+D:\99.etc\C#\PPAP\PPAP_StateMachine\Server\PPAP_SEVER\PPAP_SEVER\obj\Debug\PPAP_SEVER.csproj.CopyComplete
+D:\99.etc\C#\PPAP\PPAP_StateMachine\Server\PPAP_SEVER\PPAP_SEVER\obj\Debug\PPAP_SEVER.exe
+D:\99.etc\C#\PPAP\PPAP_StateMachine\Server\PPAP_SEVER\PPAP_SEVER\obj\Debug\PPAP_SEVER.pdb

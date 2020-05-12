@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace PPAP_SEVER
+{
+    public enum EMUnitStatuse
+    {
+        NONE = 0,
+        MAX 
+    }
+}
